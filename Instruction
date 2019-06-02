@@ -3,6 +3,6 @@ Libraries: pandas, numpy, matplotlib, sklearn, keras.
 Model: recurrent neural network (LSTM)
 
 Instruction:
-1. Please add to folder "data" train and test file csv.
+1. Please add train and test file csv.
 2. Run file "LSTM.ipynb"
-3. Get file "submission.csv" at folder "save_model"
+3. Get file "submission.csv"
