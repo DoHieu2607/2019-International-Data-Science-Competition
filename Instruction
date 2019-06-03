@@ -5,4 +5,4 @@ Model: recurrent neural network (LSTM)
 Instruction:
 1. Please add train and test file csv.
 2. Run file "LSTM.ipynb"
-3. Get file "submission.csv"
+3. Get file "submitlstm.csv"
