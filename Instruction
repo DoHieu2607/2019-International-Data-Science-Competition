@@ -1,5 +1,5 @@
 Libraries: pandas, numpy, matplotlib, sklearn, keras.
-
+My team use ggcolab to run code and training
 Model: recurrent neural network (LSTM)
 
 Instruction:
