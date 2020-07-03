@@ -14,7 +14,7 @@ Read file [introdution](https://github.com/hieukut456/2019-International-Data-Sc
 ## In step preprocessing data:
 
   1. We use **Random forest algorithm** to find best features in dataset.
-  2. We set **time sequence/lag, batch size** - paremetesr for LSTM model.
+  2. We set **time sequence/lag, batch size** - paremeters for LSTM model.
   
 ## In step build model
 
